@@ -1,0 +1,57 @@
+.whole{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.title{
+    font-size: 38px;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+.main {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.optionValue{
+    font-size: 18px;
+}  
+.projectSelect { 
+
+}
+
+.searchFile {
+    margin-left: 30px;
+    flex-direction: column;
+}
+
+.showFiles {
+    width: 320px;
+    height: 150px;
+    border: 1.5px solid gray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.addProject {
+
+}
+
+.buttonArea {
+    margin-top: 30px;
+    flex-direction: row;
+    justify-content: center;
+    height: 70px;
+}
+.addProjectLabel{
+    margin-top: 100px;
+}
+.addProjectArea{
+    flex-direction: row;
+    justify-content: center;
+}
