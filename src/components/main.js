@@ -36,7 +36,7 @@ export const Main = (props) => {
     }
 
     const doCancel = () =>{
-
+        console.log(" do Cancle !!");
     }
 
     return (
